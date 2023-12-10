@@ -1,7 +1,7 @@
 #INTRO
 
 I'm starting a project to analyse data from cyclistic platform to help increase profits.
-I'll be using Spreadsheet,SQL and R to do the above.
+I'll be using Spreadsheet,SQL and python to do the above.
 Read ProjectIntro for more info.
 
 #GOAL
